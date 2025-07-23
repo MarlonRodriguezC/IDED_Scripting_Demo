@@ -6,4 +6,3 @@ Scripting
 
 ### Scripting
 html
-Hello World!
